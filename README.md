@@ -1,16 +1,23 @@
-## Hi there 👋
+# About me.\
+# Hi there👋, I'm Jash patel 
 
-<!--
-**jash7-git/jash7-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with a passion for machine learning, data visualization, and open-source projects. With experience in Python, SQL, and various machine learning frameworks like TensorFlow and Scikit-learn, I love creating projects that solve real-world problems by turning complex datasets into actionable insights.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💼 Skills & Tools
+- **Languages**: Proficient in using Python for data analysis, machine learning, and automation.
+- **Frameworks**: NumPy, Matplotlib, Seaborn, Pandas, Keras, Scikit-learn
+- **Tools**: PostgreSQL, Jupyter
+
+
+### 💬 Ask me about
+- Machine Learning Algorithms
+- Deep Learning Techniques
+- Data Visualization
+- Statistical Analysis
+- Data Cleaning Techniques
+- SQL and Database Management
+
+### 📫 How to reach me
+- **LinkedIn**: www.linkedin.com/in/jash-patel-151975304
