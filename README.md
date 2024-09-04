@@ -3,7 +3,7 @@
 
 I'm a data scientist with a passion for machine learning, data visualization, and open-source projects. With experience in Python, SQL, and various machine learning frameworks like TensorFlow and Scikit-learn, I love creating projects that solve real-world problems by turning complex datasets into actionable insights.
 
-My Data Science Portfolio  **Link**: [View Project](https://github.com/jash7-git/Portfolio/blob/main/README.md)
+My Data Science Portfolio  **Link**: [View Projects](https://github.com/jash7-git/Portfolio/blob/main/README.md)
 
 
 
